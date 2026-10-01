@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexandriawaterheater.com/sitemap.xml
